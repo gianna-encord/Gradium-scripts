@@ -2,7 +2,7 @@ from encord.user_client import EncordUserClient
 from encord.workflow import AgentStage
 
 # ── Edit these values ──────────────────────────────────────────────────
-PRIVATE_KEY_PATH  = "/Users/giannacipponeri/source/keys/encord-gianna-new-accelerate-private-key.ed25519"
+PRIVATE_KEY_PATH  = ""
 PROJECT_HASH      = "60320d93-9495-402d-bb86-6a0300643615"
 AGENT_STAGE_NAME  = "QA Check"
 APPROVE_PATHWAY   = "approve"

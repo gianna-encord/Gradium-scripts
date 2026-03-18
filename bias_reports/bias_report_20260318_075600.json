@@ -1,0 +1,126 @@
+{
+  "generated_at": "2026-03-18T07:56:00.507338",
+  "elapsed_seconds": 139,
+  "projects": [
+    {
+      "project_id": "219e34bf-7f76-4942-8c2b-2bdd51def6df",
+      "project_title": "26-03-09/voices_en/voices/en",
+      "error": null,
+      "total_instances": 1540,
+      "label_averages": {
+        "Unclean start/end": 25.0,
+        "Intonation Issue": 3.7,
+        "Cadence Issue": 56.17,
+        "Word Issue": 15.13
+      },
+      "annotator_summaries": [
+        {
+          "annotator": "annotator108_lambda@encord.ai",
+          "total_instances": 175,
+          "label_distribution": {
+            "Unclean start/end": 37.71,
+            "Cadence Issue": 44.0,
+            "Word Issue": 18.29
+          }
+        },
+        {
+          "annotator": "annotator106_lambda@encord.ai",
+          "total_instances": 234,
+          "label_distribution": {
+            "Intonation Issue": 14.96,
+            "Cadence Issue": 47.01,
+            "Unclean start/end": 23.93,
+            "Word Issue": 14.1
+          }
+        },
+        {
+          "annotator": "annotator107_lambda@encord.ai",
+          "total_instances": 127,
+          "label_distribution": {
+            "Cadence Issue": 63.78,
+            "Unclean start/end": 25.2,
+            "Word Issue": 11.02
+          }
+        },
+        {
+          "annotator": "annotator109_lambda@encord.ai",
+          "total_instances": 317,
+          "label_distribution": {
+            "Cadence Issue": 48.26,
+            "Unclean start/end": 28.08,
+            "Word Issue": 18.3,
+            "Intonation Issue": 5.36
+          }
+        },
+        {
+          "annotator": "annotator41_lambda@encord.ai",
+          "total_instances": 687,
+          "label_distribution": {
+            "Cadence Issue": 64.63,
+            "Unclean start/end": 20.67,
+            "Word Issue": 13.97,
+            "Intonation Issue": 0.73
+          }
+        }
+      ],
+      "flagged_annotators": []
+    },
+    {
+      "project_id": "721f50b4-35ed-4f49-a3f0-2e601d1db4bb",
+      "project_title": "26-03-09/voices_fr/voices/fr",
+      "error": null,
+      "total_instances": 1288,
+      "label_averages": {
+        "Word Issue": 20.19,
+        "Intonation Issue": 32.45,
+        "Cadence Issue": 43.17,
+        "Unclean start/end": 4.04,
+        "Script Issue": 0.16
+      },
+      "annotator_summaries": [
+        {
+          "annotator": "annotator96_lambda@encord.ai",
+          "total_instances": 363,
+          "label_distribution": {
+            "Word Issue": 35.26,
+            "Intonation Issue": 19.83,
+            "Cadence Issue": 38.84,
+            "Unclean start/end": 6.06
+          }
+        },
+        {
+          "annotator": "annotator97_lambda@encord.ai",
+          "total_instances": 496,
+          "label_distribution": {
+            "Word Issue": 13.51,
+            "Intonation Issue": 35.48,
+            "Cadence Issue": 47.18,
+            "Unclean start/end": 3.43,
+            "Script Issue": 0.4
+          }
+        },
+        {
+          "annotator": "annotator99_lambda@encord.ai",
+          "total_instances": 117,
+          "label_distribution": {
+            "Intonation Issue": 17.09,
+            "Cadence Issue": 50.43,
+            "Word Issue": 25.64,
+            "Unclean start/end": 6.84
+          }
+        },
+        {
+          "annotator": "annotator98_lambda@encord.ai",
+          "total_instances": 312,
+          "label_distribution": {
+            "Intonation Issue": 48.08,
+            "Cadence Issue": 39.1,
+            "Word Issue": 11.22,
+            "Unclean start/end": 1.6
+          }
+        }
+      ],
+      "flagged_annotators": []
+    }
+  ]
+}

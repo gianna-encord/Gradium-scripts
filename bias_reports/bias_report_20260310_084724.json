@@ -1,0 +1,339 @@
+{
+  "generated_at": "2026-03-10T08:47:24.930130",
+  "elapsed_seconds": 30,
+  "projects": [
+    {
+      "project_id": "1d6dcff2-fbc4-4ff1-8201-d3132a7dfc53",
+      "project_title": "26-03-06/model_comparison/scripts-26-02-05-uber-redo-english-1380_valid/en",
+      "error": null,
+      "total_instances": 266,
+      "label_averages": {
+        "Cadence Issue": 31.95,
+        "Unclean start/end": 48.87,
+        "Word Issue": 18.42,
+        "Intonation Issue": 0.75
+      },
+      "annotator_summaries": [
+        {
+          "annotator": "annotator108_lambda@encord.ai",
+          "total_instances": 164,
+          "label_distribution": {
+            "Cadence Issue": 32.93,
+            "Unclean start/end": 50.61,
+            "Word Issue": 15.24,
+            "Intonation Issue": 1.22
+          }
+        },
+        {
+          "annotator": "annotator107_lambda@encord.ai",
+          "total_instances": 102,
+          "label_distribution": {
+            "Unclean start/end": 46.08,
+            "Cadence Issue": 30.39,
+            "Word Issue": 23.53
+          }
+        }
+      ],
+      "flagged_annotators": []
+    },
+    {
+      "project_id": "60320d93-9495-402d-bb86-6a0300643615",
+      "project_title": "26-03-06/model_comparison/scripts-26-02-05-uber-redo-all-1380_valid/fr",
+      "error": null,
+      "total_instances": 234,
+      "label_averages": {
+        "Intonation Issue": 35.04,
+        "Cadence Issue": 43.59,
+        "Word Issue": 13.25,
+        "Unclean start/end": 8.12
+      },
+      "annotator_summaries": [
+        {
+          "annotator": "annotator98_lambda@encord.ai",
+          "total_instances": 181,
+          "label_distribution": {
+            "Intonation Issue": 42.54,
+            "Cadence Issue": 40.33,
+            "Word Issue": 10.5,
+            "Unclean start/end": 6.63
+          }
+        },
+        {
+          "annotator": "annotator97_lambda@encord.ai",
+          "total_instances": 53,
+          "label_distribution": {
+            "Cadence Issue": 54.72,
+            "Intonation Issue": 9.43,
+            "Word Issue": 22.64,
+            "Unclean start/end": 13.21
+          }
+        }
+      ],
+      "flagged_annotators": [
+        {
+          "annotator": "annotator97_lambda@encord.ai",
+          "total_instances": 53,
+          "flags": [
+            {
+              "label": "Intonation Issue",
+              "annotator_pct": 9.4,
+              "average_pct": 35.0,
+              "deviation_pct": -25.6,
+              "direction": "UNDER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "project_id": "5c8a9426-ce19-423d-b1e5-184e435c963b",
+      "project_title": "26-03-06/model_comparison/scripts-26-02-05-uber-redo-all-1380_valid/de",
+      "error": null,
+      "total_instances": 344,
+      "label_averages": {
+        "Word Issue": 25.0,
+        "Unclean start/end": 11.63,
+        "Cadence Issue": 36.63,
+        "Intonation Issue": 25.58,
+        "Script Issue": 1.16
+      },
+      "annotator_summaries": [
+        {
+          "annotator": "annotator91_lambda@encord.ai",
+          "total_instances": 244,
+          "label_distribution": {
+            "Word Issue": 32.79,
+            "Unclean start/end": 12.3,
+            "Intonation Issue": 20.9,
+            "Cadence Issue": 32.38,
+            "Script Issue": 1.64
+          }
+        },
+        {
+          "annotator": "annotator92_lambda@encord.ai",
+          "total_instances": 23,
+          "label_distribution": {
+            "Unclean start/end": 43.48,
+            "Intonation Issue": 17.39,
+            "Word Issue": 17.39,
+            "Cadence Issue": 21.74
+          }
+        },
+        {
+          "annotator": "annotator93_lambda@encord.ai",
+          "total_instances": 77,
+          "label_distribution": {
+            "Cadence Issue": 54.55,
+            "Intonation Issue": 42.86,
+            "Word Issue": 2.6
+          }
+        }
+      ],
+      "flagged_annotators": [
+        {
+          "annotator": "annotator92_lambda@encord.ai",
+          "total_instances": 23,
+          "flags": [
+            {
+              "label": "Unclean start/end",
+              "annotator_pct": 43.5,
+              "average_pct": 11.6,
+              "deviation_pct": 31.9,
+              "direction": "OVER"
+            }
+          ]
+        },
+        {
+          "annotator": "annotator93_lambda@encord.ai",
+          "total_instances": 77,
+          "flags": [
+            {
+              "label": "Word Issue",
+              "annotator_pct": 2.6,
+              "average_pct": 25.0,
+              "deviation_pct": -22.4,
+              "direction": "UNDER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "project_id": "d85018cf-dac2-461c-8f3f-67e2dd83c3e2",
+      "project_title": "26-03-06/model_comparison/scripts-26-02-05-uber-redo-all-1380_valid/pt",
+      "error": null,
+      "total_instances": 576,
+      "label_averages": {
+        "Cadence Issue": 42.71,
+        "Word Issue": 22.92,
+        "Intonation Issue": 28.65,
+        "Unclean start/end": 5.03,
+        "Script Issue": 0.69
+      },
+      "annotator_summaries": [
+        {
+          "annotator": "annotator105_lambda@encord.ai",
+          "total_instances": 83,
+          "label_distribution": {
+            "Cadence Issue": 38.55,
+            "Unclean start/end": 9.64,
+            "Word Issue": 37.35,
+            "Intonation Issue": 14.46
+          }
+        },
+        {
+          "annotator": "annotator101_lambda@encord.ai",
+          "total_instances": 247,
+          "label_distribution": {
+            "Word Issue": 10.93,
+            "Cadence Issue": 53.85,
+            "Intonation Issue": 34.01,
+            "Unclean start/end": 1.21
+          }
+        },
+        {
+          "annotator": "annotator103_lambda@encord.ai",
+          "total_instances": 153,
+          "label_distribution": {
+            "Cadence Issue": 38.56,
+            "Intonation Issue": 35.95,
+            "Word Issue": 17.65,
+            "Unclean start/end": 6.54,
+            "Script Issue": 1.31
+          }
+        },
+        {
+          "annotator": "annotator100_lambda@encord.ai",
+          "total_instances": 74,
+          "label_distribution": {
+            "Intonation Issue": 18.92,
+            "Word Issue": 45.95,
+            "Cadence Issue": 25.68,
+            "Unclean start/end": 9.46
+          }
+        },
+        {
+          "annotator": "annotator102_lambda@encord.ai",
+          "total_instances": 19,
+          "label_distribution": {
+            "Script Issue": 10.53,
+            "Word Issue": 68.42,
+            "Cadence Issue": 15.79,
+            "Unclean start/end": 5.26
+          }
+        }
+      ],
+      "flagged_annotators": [
+        {
+          "annotator": "annotator102_lambda@encord.ai",
+          "total_instances": 19,
+          "flags": [
+            {
+              "label": "Word Issue",
+              "annotator_pct": 68.4,
+              "average_pct": 22.9,
+              "deviation_pct": 45.5,
+              "direction": "OVER"
+            },
+            {
+              "label": "Intonation Issue",
+              "annotator_pct": 0.0,
+              "average_pct": 28.6,
+              "deviation_pct": -28.6,
+              "direction": "UNDER"
+            },
+            {
+              "label": "Cadence Issue",
+              "annotator_pct": 15.8,
+              "average_pct": 42.7,
+              "deviation_pct": -26.9,
+              "direction": "UNDER"
+            }
+          ]
+        },
+        {
+          "annotator": "annotator100_lambda@encord.ai",
+          "total_instances": 74,
+          "flags": [
+            {
+              "label": "Word Issue",
+              "annotator_pct": 45.9,
+              "average_pct": 22.9,
+              "deviation_pct": 23.0,
+              "direction": "OVER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "project_id": "c075508b-4899-4820-8a43-21b556732f04",
+      "project_title": "26-03-06/model_comparison/scripts-26-02-05-uber-redo-all-1380_valid/es",
+      "error": null,
+      "total_instances": 234,
+      "label_averages": {
+        "Cadence Issue": 40.17,
+        "Unclean start/end": 17.09,
+        "Word Issue": 17.95,
+        "Intonation Issue": 23.93,
+        "Script Issue": 0.85
+      },
+      "annotator_summaries": [
+        {
+          "annotator": "annotator110_lambda@encord.ai",
+          "total_instances": 115,
+          "label_distribution": {
+            "Cadence Issue": 48.7,
+            "Intonation Issue": 30.43,
+            "Word Issue": 11.3,
+            "Unclean start/end": 7.83,
+            "Script Issue": 1.74
+          }
+        },
+        {
+          "annotator": "annotator42_lambda@encord.ai",
+          "total_instances": 95,
+          "label_distribution": {
+            "Unclean start/end": 31.58,
+            "Word Issue": 27.37,
+            "Cadence Issue": 24.21,
+            "Intonation Issue": 16.84
+          }
+        },
+        {
+          "annotator": "annotator52_lambda@encord.ai",
+          "total_instances": 18,
+          "label_distribution": {
+            "Word Issue": 16.67,
+            "Intonation Issue": 22.22,
+            "Cadence Issue": 55.56,
+            "Unclean start/end": 5.56
+          }
+        },
+        {
+          "annotator": "annotator23_lambda@encord.ai",
+          "total_instances": 6,
+          "label_distribution": {
+            "Cadence Issue": 83.33,
+            "Intonation Issue": 16.67
+          }
+        }
+      ],
+      "flagged_annotators": [
+        {
+          "annotator": "annotator23_lambda@encord.ai",
+          "total_instances": 6,
+          "flags": [
+            {
+              "label": "Cadence Issue",
+              "annotator_pct": 83.3,
+              "average_pct": 40.2,
+              "deviation_pct": 43.2,
+              "direction": "OVER"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
